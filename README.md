@@ -1,2 +1,2 @@
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/featured)
-    - [Blender 2.8 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+- Blender Guru [Youtube](https://www.youtube.com/user/AndrewPPrice/featured)
+    - [Blender 2.8 Beginner Tutorial Series](https://github.com/keer2345/blender-learning/tree/master/Beginner-Blender-Tutorial)
